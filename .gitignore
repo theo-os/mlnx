@@ -1,4 +1,4 @@
 /build/
-/result/
+/result
 /.cache/
 .DS_Store
